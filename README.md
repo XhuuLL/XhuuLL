@@ -35,6 +35,10 @@ Saya **Akhmad Fatkhul Arifin**, mahasiswa Teknik Informatika yang kayaknya fokus
 
 ### 📊 Statistik GitHub Saya
 <div align="center">
-  [![Stats Akhmad](https://github-readme-stats.vercel.app/api?username=XhuuLL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XhuuLL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/XhuuLL">
+    <img src="https://github-readme-stats.vercel.app/api?username=XhuuLL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="Stats Akhmad" />
+  </a>
+  <a href="https://github.com/XhuuLL">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XhuuLL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Top Langs" />
+  </a>
 </div>
