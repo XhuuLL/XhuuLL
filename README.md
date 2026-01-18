@@ -3,7 +3,8 @@
 </div>
 
 ### 👋 Tentang Saya
-Saya **Akhmad Fatkhul Arifin**, mahasiswa Teknik Informatika Semester 5 yang fokus pada pengembangan aplikasi web dan keamanan jaringan. Senang bereksperimen dengan **Laravel, React,** dan **Linux**.
+Saya **Akhmad Fatkhul Arifin**, mahasiswa Teknik Informatika Semester 5 yang fokus pada pengembangan aplikasi web dan keamanan jaringan.  
+Senang bereksperimen dengan **Laravel, React,** dan **Linux**.
 
 - 🔭 Sedang mengerjakan: **SIGAP (Sistem Informasi Gangguan & Pengaduan)**
 - 🌱 Sedang belajar di: **Youtube lah wkwk**
@@ -19,13 +20,11 @@ Saya **Akhmad Fatkhul Arifin**, mahasiswa Teknik Informatika Semester 5 yang fok
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  
   <br>
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-
   <br>
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -36,15 +35,6 @@ Saya **Akhmad Fatkhul Arifin**, mahasiswa Teknik Informatika Semester 5 yang fok
 
 ### 📊 Statistik GitHub Saya
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=XhuuLL&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Stats Akhmad"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=XhuuLL&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-</div>
+![Stats Akhmad](https://github-readme-stats.vercel.app/api?username=XhuuLL&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XhuuLL&layout=compact&theme=tokyonight&hide_border=true)
