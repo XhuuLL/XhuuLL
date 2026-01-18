@@ -3,7 +3,7 @@
 </div>
 
 ### 👋 Tentang Saya
-Saya **Fatkhul**, mahasiswa Teknik Informatika Semester 5 yang fokus pada pengembangan aplikasi web dan keamanan jaringan.  
+Saya **Fatkhul**, mahasiswa Teknik Informatika yang fokus pada pengembangan aplikasi web dan Arduino Kayaknya.  
 Senang bereksperimen dengan **Laravel, React,** dan **Linux**.
 
 - 🌱 Sedang belajar di: **Youtube lah wkwk**
