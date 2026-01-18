@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Halo,%20Saya%20Akhmad!&fontSize=70&fontAlign=50&fontAlignY=35&desc=Informatics%20Student%20|%20Fullstack%20Developer&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=I'M,%20Saya%20XhuuLL!&fontSize=70&fontAlign=50&fontAlignY=35&desc=Informatics%20Student&descSize=25&descAlign=50&descAlignY=60" width="100%"/>
 </div>
 
 ### 👋 Tentang Saya
