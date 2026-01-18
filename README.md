@@ -3,7 +3,7 @@
 </div>
 
 ### 👋 Tentang Saya
-Saya **Akhmad Fatkhul Arifin**, mahasiswa Teknik Informatika Semester 5 yang fokus pada pengembangan aplikasi web (Web Development) dan keamanan jaringan. Senang bereksperimen dengan **Laravel, React,** dan **Linux**.
+Saya **Akhmad Fatkhul Arifin**, mahasiswa Teknik Informatika yang kayaknya fokus pada pengembangan aplikasi web (Web Development) dan keamanan jaringan. Senang bereksperimen dengan **Laravel, React,** dan **Linux**.
 
 - 🔭 Sedang belajar di: **Youtube lah wkwk**
 - 🌱 Sedang mempelajari: **Next.js & Network Security**
