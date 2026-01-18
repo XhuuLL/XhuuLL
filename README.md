@@ -31,10 +31,3 @@ Senang bereksperimen dengan **Laravel, React,** dan **Linux**.
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
----
-
-### 📊 Statistik GitHub Saya
-
-![Stats Akhmad](https://github-readme-stats.vercel.app/api?username=XhuuLL&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XhuuLL&layout=compact&theme=tokyonight&hide_border=true)
