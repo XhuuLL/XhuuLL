@@ -1,14 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hallo,%20I'M%20XhuuLL!&fontSize=70&fontAlign=50&fontAlignY=35&desc=Informatics%20Student&descSize=25&descAlign=50&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Halo,%20Saya%20Akhmad!&fontSize=70&fontAlign=50&fontAlignY=35&desc=Informatics%20Student&descSize=25&descAlign=50&descAlignY=60" width="100%"/>
 </div>
 
 ### 👋 Tentang Saya
-Saya **Akhmad Fatkhul Arifin**, mahasiswa Teknik Informatika yang kayaknya fokus pada pengembangan aplikasi web (Web Development) dan keamanan jaringan. Senang bereksperimen dengan **Laravel, React,** dan **Linux**.
+Saya **Akhmad Fatkhul Arifin**, mahasiswa Teknik Informatika Semester 5 yang fokus pada pengembangan aplikasi web dan keamanan jaringan. Senang bereksperimen dengan **Laravel, React,** dan **Linux**.
 
-- 🔭 Sedang belajar di: **Youtube lah wkwk**
-- 🌱 Sedang mempelajari: **Next.js & Network Security**
+- 🔭 Sedang mengerjakan: **SIGAP (Sistem Informasi Gangguan & Pengaduan)**
+- 🌱 Sedang belajar di: **Youtube lah wkwk**
+- ⚡ Sedang mempelajari: **Next.js & Network Security**
 - 💬 Tanya saya tentang: **PHP, React, Supabase, & Multiboot OS**
-- 📫 Hubungi saya: *fatkhuldisini@gmail.com*
+- 📫 Hubungi saya: **fatkhuldisini@gmail.com**
 
 ---
 
@@ -34,11 +35,7 @@ Saya **Akhmad Fatkhul Arifin**, mahasiswa Teknik Informatika yang kayaknya fokus
 ---
 
 ### 📊 Statistik GitHub Saya
-<div align="center">
-  <a href="https://github.com/XhuuLL">
-    <img src="https://github-readme-stats.vercel.app/api?username=XhuuLL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="Stats Akhmad" />
-  </a>
-  <a href="https://github.com/XhuuLL">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XhuuLL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Top Langs" />
-  </a>
-</div>
+
+![Stats Akhmad](https://github-readme-stats.vercel.app/api?username=XhuuLL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XhuuLL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
