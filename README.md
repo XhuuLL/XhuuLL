@@ -5,10 +5,10 @@
 ### 👋 Tentang Saya
 Saya **Akhmad Fatkhul Arifin**, mahasiswa Teknik Informatika Semester 5 yang fokus pada pengembangan aplikasi web (Web Development) dan keamanan jaringan. Senang bereksperimen dengan **Laravel, React,** dan **Linux**.
 
-- 🔭 Sedang mengerjakan: **SIGAP (Sistem Informasi Gangguan & Pengaduan)**
+- 🔭 Sedang belajar di: **Youtube lah wkwk**
 - 🌱 Sedang mempelajari: **Next.js & Network Security**
 - 💬 Tanya saya tentang: **PHP, React, Supabase, & Multiboot OS**
-- 📫 Hubungi saya: *[Masukkan Email Anda]*
+- 📫 Hubungi saya: *fatkhuldisini@gmail.com*
 
 ---
 
