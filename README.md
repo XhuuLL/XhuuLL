@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Halo,%20I'm%20Xhuull!&fontSize=70&fontAlign=50&fontAlignY=35&desc=Informatics%20Student&descSize=25&descAlign=50&descAlignY=60" width="100%"/>
 </div>
 
-### 👋 Tentang Saya
+### 👋 About Me
 Saya **Fatkhul**, mahasiswa Teknik Informatika yang fokus pada pengembangan aplikasi web dan Arduino Kayaknya.  
 Senang bereksperimen dengan **Laravel, React,** dan **Linux**.
 
@@ -30,8 +30,7 @@ Senang bereksperimen dengan **Laravel, React,** dan **Linux**.
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-### 📊 Statistik GitHub Saya
-
+### 📊 My GitHub Statistics
 ![](https://github-readme-stats.vercel.app/api?username=XhuuLL&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XhuuLL&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=XhuuLL&theme=github_dark&hide_border=false)
