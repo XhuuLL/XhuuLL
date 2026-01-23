@@ -3,12 +3,12 @@
 </div>
 
 ### 👋 About Me
-Saya **Fatkhul**, mahasiswa Teknik Informatika yang fokus pada pengembangan aplikasi web dan Arduino Kayaknya.  
-Senang bereksperimen dengan **Game, React,** dan **DualOS**.
+I'm **Fatkhul**, an Informatics Engineering student focusing on web application development and Arduino, I think.
+I enjoy experimenting with **Games, React,** and **DualOS**.
 
-- 🌱 Sedang belajar di: **Youtube lah wkwk**
-- ⚡ Sedang mempelajari: **Next.js & Network Security**
-- 💬 Tanya saya tentang: **PHP, React, Supabase, & Multiboot OS**
+- 🌱 Currently studying on: **Youtube, haha**
+- ⚡ Currently studying: **Next.js & Network Security**
+- 💬 Ask me about: **PHP, React, Supabase, & Multiboot OS**
 - 📫 LinkedIn: **https://www.linkedin.com/in/akhmad-fatkhul-arifin-632a383a6**
 
 ---
