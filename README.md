@@ -4,7 +4,7 @@
 
 ### 👋 About Me
 Saya **Fatkhul**, mahasiswa Teknik Informatika yang fokus pada pengembangan aplikasi web dan Arduino Kayaknya.  
-Senang bereksperimen dengan **Laravel, React,** dan **Linux**.
+Senang bereksperimen dengan **Game, React,** dan **DualOS**.
 
 - 🌱 Sedang belajar di: **Youtube lah wkwk**
 - ⚡ Sedang mempelajari: **Next.js & Network Security**
