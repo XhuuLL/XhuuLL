@@ -9,7 +9,7 @@ Senang bereksperimen dengan **Game, React,** dan **DualOS**.
 - 🌱 Sedang belajar di: **Youtube lah wkwk**
 - ⚡ Sedang mempelajari: **Next.js & Network Security**
 - 💬 Tanya saya tentang: **PHP, React, Supabase, & Multiboot OS**
-- 📫 LinkedIn: **fatkhuldisini@gmail.com**
+- 📫 LinkedIn: **https://www.linkedin.com/in/akhmad-fatkhul-arifin-632a383a6**
 
 ---
 
