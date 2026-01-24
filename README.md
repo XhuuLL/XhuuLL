@@ -4,10 +4,10 @@
 
 ### 👋 About Me
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c6ff&width=435&lines=Informatics+Engineering+Student;Promt+Engineer+(React+%26+Next.js);Arduino+Enthusiast;Multiboot+OS+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c6ff&width=435&lines=Informatics+Engineering+Student;Promt+Engineer;Arduino+Enthusiast;Multiboot+OS+Explorer" alt="Typing SVG" />
 </p>
-I'm **Fatkhul**, an Informatics Engineering student. I enjoy experimenting with **Games, React,** and **DualOS**.
 
+I'm **Fatkhul**, an Informatics Engineering student. I enjoy experimenting with **Games, React,** and **DualOS**.
 - 🌱 Currently studying on: **Youtube, haha**
 - ⚡ Currently studying: **Next.js & Network Security**
 - 💬 Ask me about: **PHP, React, Supabase, & Multiboot OS**
