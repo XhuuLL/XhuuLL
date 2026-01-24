@@ -17,6 +17,11 @@ I'm **Fatkhul**, an Informatics Engineering student. I enjoy experimenting with 
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,js,laravel,php,supabase,mysql,linux,git,vercel,arduino&perline=7" />
+  </a>
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
