@@ -23,7 +23,4 @@ I'm **Fatkhul**, an Informatics Engineering student. I enjoy experimenting with 
 </p>
 
 
-### 📊 My GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=XhuuLL&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XhuuLL&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
